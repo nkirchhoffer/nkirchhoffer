@@ -1,11 +1,17 @@
 # Hello there ! :wave:
 
-I am a Software Engineer student at IMT Atlantique, in Nantes, France !
+I am a Cloud Engineer (and also a Software Engineer student at IMT Atlantique, Nantes, France) working on various infrastructures, architectures and technologies. 
 
 - I also work at a company called [Hardis Group](https://hardis-group.com) :computer:
 - I am a certified Google Cloud Associate Cloud Engineer and Professional Cloud DevOps Engineer :wrench:
-- I am a full-stack web developer, mainly using Java, PHP and JavaScript (NodeJS) as back-end technologies and Vue as front-end technology
-- I also work with networks and servers ! Kubernetes and Docker are my reason to live :smirk:
+- I also work as a full-stack web developer, using technologies like NodeJS, PHP (with Laravel) and Vue to build websites :construction:
+- I studied networks and telecommunications, which explain my interest for cloud computing ! :globe_with_meridians:
+
+Currently working on :
+
+- Setting up an on-edge multi-cloud Kubernetes cluster with [Netmaker](https://github.com/gravitl/netmaker) and [K3s](https://k3s.io) :arrow_right: [Clebard Cloud](https://clebard.cloud)
+- Building a service that allows your friends to add songs to your Spotify queue :arrow_right: [The Queue](https://github.com/the-queue)
+- Writing articles on my blog :arrow_right: [nkirchho.dev](https://nkirchho.dev) 
 
 Check out my articles about networking on DEV.to ! :arrow_right: [Building networks from A to Z](https://dev.to/nkirchhoffer/building-networks-from-a-to-z-part-i-the-basics-bjd)
 
