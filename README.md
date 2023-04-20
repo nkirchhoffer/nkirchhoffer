@@ -13,7 +13,7 @@ Currently working on :
 - Building a service that allows your friends to add songs to your Spotify queue :arrow_right: [The Queue](https://github.com/the-queue)
 - Writing articles on my blog :arrow_right: [nkirchho.dev](https://nkirchho.dev)
 
-As I advocate for free and open-source software, all my personal (and sometimes more professional) projects are available on my GitHub profile or on my different organizations !
+As I advocate for free and open-source software, all my personal (and sometimes more professional) projects are available on my GitHub profile or on my different organizations ! Feel free to support my work on [Ko-fi](https://ko-fi.com/nkirchho) :blush:
 
 Check out my articles about networking on DEV.to ! :arrow_right: [Building networks from A to Z](https://dev.to/nkirchhoffer/building-networks-from-a-to-z-part-i-the-basics-bjd)
 
