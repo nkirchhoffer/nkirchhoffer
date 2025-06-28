@@ -2,7 +2,7 @@
 
 I am a Cloud Engineer (and also a Software Engineer student at IMT Atlantique, Nantes, France) working on various infrastructures, architectures and technologies. 
 
-- I also work at a company called [Hardis Group](https://hardis-group.com) :computer:
+- I also work at BPCE-IT where my job is to make our infrastructure and applications reliable (using stress tests, and by defining standards) :computer:
 - I am a certified Google Cloud Associate Cloud Engineer and Professional Cloud DevOps Engineer :wrench:
 - I also work as a full-stack web developer, using technologies like NodeJS, PHP (with Laravel) and Vue to build websites :construction:
 - I studied networks and telecommunications, which explain my interest for cloud computing ! :globe_with_meridians:
